@@ -1,10 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import Home from './Home';
-import Ingredients from './Ingredients';
-import Recipe from './RecipePage';
-import Contact from './Contact';
-import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
 

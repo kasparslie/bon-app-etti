@@ -1,10 +1,7 @@
 import React from 'react';
 import './App.css';
-import Burger from './pages/Burger';
-import Navbar from './pages/NavBar';
 import Home from './pages/Home';
 import Ingredients from './pages/Ingredients';
-import Recipe from './pages/RecipePage';
 import Contact from './pages/Contact';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import RecipePage from './pages/RecipePage';

@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import Burger from './Burger';
-import SearchBar from './SearchBar';
 
 const Nav = styled.nav`
   background-color: #828282;
